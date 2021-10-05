@@ -1,0 +1,2 @@
+O aplicatie cloud de tipul software as a service pe care am folosit-o este DropBox.
+Aceasta este destinata in principal stocarii si transmiterii de fisiere/foldere/proiecte. Documentele mele au astfel parte de back up.
