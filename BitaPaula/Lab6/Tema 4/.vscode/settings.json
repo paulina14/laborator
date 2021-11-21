@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/34e7f6ad-2698-417d-92b1-82b72db1ddff/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/bita-paula-tema4-dac",
+    "appService.deploySubpath": "publish"
+}
